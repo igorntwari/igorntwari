@@ -1,0 +1,4 @@
+- 👋 Hi, I’m igor
+- 👀 I’m interested in software development and website development 
+- 💞️ I’m looking to collaborate on software development 
+- 📫 please contact me at...igorntwari28@gmail.co
