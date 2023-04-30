@@ -1,4 +1,4 @@
-- 👋 Hi, I’m igor
+- 👋 Hi, fullstack developer 
 - 👀 I’m interested in software development and web application
 - 💞️ I’m looking to collaborate with determined developer and sharing great ideas about latest technology
 - 📫 please contact me at...igorntwari28@gmail.com
