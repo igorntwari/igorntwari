@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/nyiramacumu" target="blank"><img src="https://img.shields.io/twitter/follow/nyiramacumu?logo=twitter&style=for-the-badge" alt="nyiramacumu" /></a> </p>
 
-- 🔭 I’m currently working on **Skyper**
+- 🔭 I’m currently working on **open source projects**
 
 - 🌱 I’m currently learning **Nest-js, Docker**
 
 - 👨‍💻 All of my projects are available at [https://igorntwari.github.io/portfolio-website/](https://igorntwari.github.io/portfolio-website/)
 
-- 💬 Ask me about **JavaScript and it's related frameworks and libraries**
+- 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **igorntwari28@gmail.com**
 
