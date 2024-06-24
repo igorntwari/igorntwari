@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/nyiramacumu" target="blank"><img src="https://img.shields.io/twitter/follow/nyiramacumu?logo=twitter&style=for-the-badge" alt="nyiramacumu" /></a> </p>
 
-- 🔭 I’m currently working on **open source projects**
-
-- 🌱 I’m currently learning **Nest-js, Docker**
+- 🌱 I’m currently learning **PWA**
 
 - 💬 Ask me about **JavaScript**
 
