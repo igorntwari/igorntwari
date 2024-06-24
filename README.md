@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **Nest-js, Docker**
 
-- 👨‍💻 All of my projects are available at [https://igorntwari.github.io/portfolio-website/](https://igorntwari.github.io/portfolio-website/)
-
 - 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **igorntwari28@gmail.com**
