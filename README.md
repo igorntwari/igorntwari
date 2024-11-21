@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/nyiramacumu" target="blank"><img src="https://img.shields.io/twitter/follow/nyiramacumu?logo=twitter&style=for-the-badge" alt="nyiramacumu" /></a> </p>
 
-- 🌱 I’m currently learning **PWA**
+- 🌱 I’m currently learning **AI Agents**
 
 - 💬 Ask me about **JavaScript**
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nyiramacumu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nyiramacumu" height="30" width="40" /></a>
+<a href="https://x.com/ntwali_igor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nyiramacumu" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/igorntwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="igorntwari" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/igorntwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="igorntwari" height="30" width="40" /></a>
 </p>
