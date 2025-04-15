@@ -1,22 +1,68 @@
-<h1 align="center">Hi 👋, I'm igor ntwali</h1>
-<h3 align="center">A full-stack developer </h3>
-
-<p align="left"> <a href="https://twitter.com/nyiramacumu" target="blank"><img src="https://img.shields.io/twitter/follow/ntwali_igor?logo=twitter&style=for-the-badge" alt="nyiramacumu" /></a> </p>
-
-- 🌱 I’m currently learning **AI Agents** and **Block Chain technologies**
-
-- 💬 Ask me about **JavaScript**
-
-- 📫 How to reach me **igorntwari28@gmail.com**
-
-- ⚡ Fun fact **Did you know? The first computer bug was an actual insect!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/ntwali_igor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nyiramacumu" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/igorntwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="igorntwari" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/igorntwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="igorntwari" height="30" width="40" /></a>
+<h1 align="center">Hey there 👋, I'm Igor Ntwali</h1>
+<p align="center">
+  💻 Fullstack Developer (Frontend-leaning) | ⚙️ Blockchain & AI Explorer | 📍 Kigali, Rwanda
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=igorntwari&show_icons=true&locale=en&layout=compact" alt="igorntwari" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=igorntwari&show_icons=true&locale=en" alt="igorntwari" /></p>
+---
+
+### 🧠 About Me
+
+I'm a software developer who loves building seamless digital experiences — from pixel-perfect mobile apps to fullstack platforms that scale.  
+I nerd out on clean code, clever systems, and emerging tech like **blockchain**, **AI**, and decentralized tools.
+
+In the last year, I’ve:
+- Played a major role in building apps used by 100K+ users
+- Helped develop a DAO/NFT marketplace for forest-backed assets
+- Trained 40+ developers at Rwanda’s most intense bootcamp
+
+---
+
+### 🔧 What I Work With
+
+**Languages**:  
+`JavaScript` `TypeScript` `Python` `SQL`
+
+**Frontend**:  
+`React` `React Native` `Next.js` `Tailwind CSS` `Redux` `Material UI`
+
+**Backend**:  
+`Node.js` `Express` `Flask` `FastAPI` `GraphQL`
+
+**Tooling & Infra**:  
+`Git` `Docker` `CI/CD` `Trello` `Notion` `GCP` `DatoCMS` `Web3.js` `Solana`
+
+---
+
+### 🛠️ Projects I've Contributed To
+
+These are professional, company-driven products where I took part in building key features, frontend architecture, and performance optimizations:
+
+- 🚀 [**WAVV**](https://apps.apple.com/rw/app/wavv-meet-friends/id6738583772)  
+  A React Native mobile app for social sharing and ICP-based rewards — contributed heavily to frontend implementation and feature rollout.
+
+- 🎮 [**DarkTimes**](https://playdarktimes.com/)  
+  A high-performance landing site for a gaming project — helped develop the frontend using Next.js, GraphQL, and CMS integrations.
+
+- 📚 [**Dacade**](https://dacade.org/)  
+  A peer-to-peer learning platform — contributed to migration from Nuxt to Next.js, added GitHub OAuth, and built automated testing flows.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=igorntwari&show_icons=true&theme=github_dark&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorntwari&layout=compact&theme=github_dark&hide_border=true" height="150" />
+</p>
+
+---
+
+### 📬 Let's Connect
+
+- 📩 Email: [igorntwari28@gmail.com](mailto:igorntwari28@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/igorntwali](https://www.linkedin.com/in/igorntwali)  
+- 🌐 GitHub: [github.com/igorntwari](https://github.com/igorntwari)
+
+---
+
+> “Build things that matter. Learn things that excite you.”
