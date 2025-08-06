@@ -20,13 +20,13 @@ In the last year, I’ve:
 ### 🔧 What I Work With
 
 **Languages**:  
-`JavaScript` `TypeScript` `Python` `SQL`
+`JavaScript` `C#` `Python` `Java`
 
 **Frontend**:  
 `React` `React Native` `Next.js` `Tailwind CSS` `Redux` `Material UI`
 
 **Backend**:  
-`Node.js` `Express` `Flask` `FastAPI` `GraphQL`
+`Node.js` `Express` `Flask` `FastAPI` `GraphQL` `.NET`
 
 **Tooling & Infra**:  
 `Git` `Docker` `CI/CD` `Trello` `Notion` `GCP` `DatoCMS` `Web3.js` `Solana`
